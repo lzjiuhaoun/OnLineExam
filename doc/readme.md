@@ -10,6 +10,8 @@ vue3
 
 springboot2
 
+sql: ./sql
+
 > 启动
 
 vue启动：D:\porject\code-2024\vue-all\RecruitEaseVue打开，在终端中输入：npm run dev，访问localhost:8080即可
